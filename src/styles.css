@@ -1,0 +1,52 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+p {
+  width: 40%;
+}
+.exp {
+  display: flex;
+  justify-content: space-around;
+}
+.full {
+  height: 60vh;
+  width: 50%;
+  margin-left: 5%;
+  border-radius: 50px;
+}
+.ins {
+  height: 20vh;
+  width: 15%;
+  margin-left: 5px;
+}
+.all {
+  display: flex;
+}
+.small {
+  margin-left: -5%;
+  margin-right: -7%;
+}
+.movep {
+  height: 10vh;
+  width: 10vh;
+  transform: scale(1.8);
+  margin-top: 7vh;
+  margin-left: 2%;
+  margin-right: 3%;
+}
+.play {
+  height: 8vh;
+  width: 8vh;
+  margin-top: 7vh;
+  transform: scale(1.8);
+  margin-right: 8%;
+  margin-left: -5%;
+}
+.moven {
+  height: 10vh;
+  width: 10vh;
+  transform: scale(1.8);
+  margin-top: 7vh;
+  margin-right: 15%;
+}
